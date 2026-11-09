@@ -2,4 +2,4 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-update-interval: 1
 #support-url: https://t.me/gidroksi_supportbot
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@88.216.254.23:443?encryption=none&flow=xtls-rprx-vision&pbk=ZZihyRejv8lHTwTnNCGF0IB6U9kS-L34L3v0ch6k_30&security=reality&sid=4f339f5f&sni=subscribe.goonars.com&type=tcp&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20GidroksiFree%20%231%20%7C%20%F0%9F%9B%A1%D0%91%D0%A1%20%7C%20%F0%9F%9F%A2LTE%20%7C%201795ms%20%7C%20%E2%86%930.0Mbps
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@88.216.254.23:443?encryption=none&flow=xtls-rprx-vision&pbk=ZZihyRejv8lHTwTnNCGF0IB6U9kS-L34L3v0ch6k_30&security=reality&sid=4f339f5f&sni=subscribe.goonars.com&type=tcp&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20GidroksiFree%20%231%20%7C%20%F0%9F%9B%A1%D0%91%D0%A1%20%7C%20%F0%9F%9F%A2LTE%20%7C%201867ms%20%7C%20%E2%86%930.0Mbps
