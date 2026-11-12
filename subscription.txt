@@ -2,4 +2,4 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-update-interval: 1
 #support-url: https://t.me/gidroksi_supportbot
-vless://b6058894-f212-4926-9e19-f65713cca4a4@82.29.36.252:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=N-fcZsehZk3eIoo3bfjCdtYXsy1luM9Iz6LscVEr33U&security=reality&sni=www.mtr.com.hk&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20GidroksiFree%20%231%20%7C%20%F0%9F%9B%A1%D0%91%D0%A1%20%7C%20%F0%9F%9F%A2LTE%20%7C%203516ms%20%7C%20%E2%86%930.0Mbps
+vless://b6058894-f212-4926-9e19-f65713cca4a4@82.29.36.252:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=N-fcZsehZk3eIoo3bfjCdtYXsy1luM9Iz6LscVEr33U&security=reality&sni=www.mtr.com.hk&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20GidroksiFree%20%231%20%7C%20%F0%9F%9B%A1%D0%91%D0%A1%20%7C%20%F0%9F%9F%A2LTE%20%7C%202385ms%20%7C%20%E2%86%930.0Mbps
