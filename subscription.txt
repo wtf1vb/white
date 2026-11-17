@@ -2,4 +2,3 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-update-interval: 1
 #support-url: https://t.me/gidroksi_supportbot
-vless://836c4d68-e086-11f1-aabc-67841df8a6f9@185.65.202.122:10004?path=/vpnjantit&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20GidroksiFree%20%231%20%7C%20%F0%9F%9B%A1%D0%91%D0%A1%20%7C%20%F0%9F%9F%A2LTE%20%7C%2014845ms%20%7C%20%E2%86%930.0Mbps
