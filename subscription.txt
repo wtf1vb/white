@@ -2,3 +2,4 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-update-interval: 1
 #support-url: https://t.me/gidroksi_supportbot
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?encryption=none&fp=firefox&mode=gun&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&security=reality&sid=ea322b8b5b015812&sni=emberworks.cloud&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%E2%9E%9C%F0%9F%87%A9%F0%9F%87%AA%20GidroksiFree%20%231%20%7C%20%F0%9F%94%97%D0%9A%D0%B0%D1%81%D0%BA%D0%B0%D0%B4%20%7C%20%F0%9F%9B%A1%D0%91%D0%A1%20%7C%20%F0%9F%9F%A2LTE%20%7C%202877ms%20%7C%20%E2%86%930.0Mbps
