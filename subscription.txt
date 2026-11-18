@@ -2,3 +2,4 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-update-interval: 1
 #support-url: https://t.me/gidroksi_supportbot
+vless://fad48ef5-444c-4035-bbbc-afbc141bb6ba@85.92.157.67:9443?encryption=none&type=xhttp&security=reality&sni=fin.krabvpn.pro&pbk=zd4L59ejBo94N8N9GQtZMox2eBBF9TQf2TLyIgpwlCg&sid=fd7624659f1e7d66&fp=firefox&path=/assets/246a109dceaa6b7832a98d17&mode=auto#%F0%9F%87%BD%F0%9F%87%BD%20GidroksiFree%20%231%20%7C%20%F0%9F%9F%A2LTE%20%7C%20512ms%20%7C%20%E2%86%930.0Mbps
