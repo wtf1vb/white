@@ -2,4 +2,3 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-update-interval: 1
 #support-url: https://t.me/gidroksi_supportbot
-vless://1d7427ab-8a5d-4317-9335-2e48d50be4fc@178.248.232.105:55443?flow=xtls-rprx-vision&security=reality&sni=rutube.ru&fp=qq&pbk=UoWXZIbLDIDA1opu4ekUYLNWgci5gLgghMJ07ApYTGo&sid=228c1a2e913d1f05#%F0%9F%87%BD%F0%9F%87%BD%20GidroksiFree%20%231%20%7C%20%F0%9F%9F%A2LTE%20%7C%20386ms%20%7C%20%E2%86%930.0Mbps
