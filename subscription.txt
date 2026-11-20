@@ -2,5 +2,4 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-update-interval: 1
 #support-url: https://t.me/gidroksi_supportbot
-vless://e603affa-cf4f-4b6a-a866-6d5d5bb3a13d@185.86.145.214:12358?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6V01vmstwvGJXz2r2eHE55Fr_L1KRYhjCwk5KD6CwmE&security=reality&sid=b6f632a91065521e&sni=passport.yandex.ru&type=raw#%F0%9F%87%BD%F0%9F%87%BD%20GidroksiFree%20%231%20%7C%20%F0%9F%9F%A2LTE%20%7C%20744ms%20%7C%20%E2%86%930.0Mbps
-vless://49118954-b846-4da7-9d55-c859ce59ab50@79.174.92.180:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5d73hwUBkVYgpoy_H4Rsq64LqklNZB-mwXcMj2W7XV0&security=reality&sid=bd0772b42160b76b&sni=fi.xenovpn.top&type=raw#%F0%9F%87%BD%F0%9F%87%BD%20GidroksiFree%20%232%20%7C%20%F0%9F%9F%A2LTE%20%7C%20457ms%20%7C%20%E2%86%930.0Mbps
+vless://e603affa-cf4f-4b6a-a866-6d5d5bb3a13d@185.86.145.214:12358?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6V01vmstwvGJXz2r2eHE55Fr_L1KRYhjCwk5KD6CwmE&security=reality&sid=b6f632a91065521e&sni=passport.yandex.ru&type=raw#%F0%9F%87%BD%F0%9F%87%BD%20GidroksiFree%20%231%20%7C%20%F0%9F%9F%A2LTE%20%7C%20718ms%20%7C%20%E2%86%930.0Mbps
