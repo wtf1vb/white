@@ -2,5 +2,5 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-update-interval: 1
 #support-url: https://t.me/gidroksi_supportbot
-vless://7a8f716f-37ee-4af3-84c3-67e9a1b17d08@158.160.144.108:7443?flow=xtls-rprx-vision&type=raw&security=reality&sni=i0.photo.2gis.com&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8&fp=firefox#%F0%9F%87%BD%F0%9F%87%BD%20GidroksiFree%20%231%20%7C%20%F0%9F%9F%A2LTE%20%7C%20350ms%20%7C%20%E2%86%930.0Mbps
-hysteria2://b7941807-1f4d-4bda-a878-92d708b84494@46.8.210.33:8446?obfs=salamander&obfs-password=nTm4oBa6QCpWoAFDVtF6mpMpfMfN8CM6&sni=litelitvalitter.rooferz.surf#%F0%9F%87%BD%F0%9F%87%BD%20GidroksiFree%20%232%20%7C%20%F0%9F%9F%A2LTE%20%7C%203724ms%20%7C%20%E2%86%930.0Mbps
+vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@178.248.236.229:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_3mkK8SY6YVqws73SUVPKL77tzxDVNUt4ag9J9ec-D0&security=reality&sid=d05a120d3506d2cc&sni=144.hexdey.com&type=raw#%F0%9F%87%BD%F0%9F%87%BD%20GidroksiFree%20%231%20%7C%20%F0%9F%9F%A2LTE%20%7C%20555ms%20%7C%20%E2%86%930.0Mbps
+hysteria2://b7941807-1f4d-4bda-a878-92d708b84494@46.8.210.33:8446?obfs=salamander&obfs-password=nTm4oBa6QCpWoAFDVtF6mpMpfMfN8CM6&sni=litelitvalitter.rooferz.surf#%F0%9F%87%BD%F0%9F%87%BD%20GidroksiFree%20%232%20%7C%20%F0%9F%9F%A2LTE%20%7C%20624ms%20%7C%20%E2%86%930.0Mbps
