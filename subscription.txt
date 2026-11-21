@@ -2,4 +2,3 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-update-interval: 1
 #support-url: https://t.me/gidroksi_supportbot
-hysteria2://b7941807-1f4d-4bda-a878-92d708b84494@46.8.210.33:8446?obfs=salamander&obfs-password=nTm4oBa6QCpWoAFDVtF6mpMpfMfN8CM6&sni=litelitvalitter.rooferz.surf#%F0%9F%87%BD%F0%9F%87%BD%20GidroksiFree%20%231%20%7C%20%F0%9F%9F%A2LTE%20%7C%201981ms%20%7C%20%E2%86%930.0Mbps
