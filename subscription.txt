@@ -2,5 +2,4 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-update-interval: 1
 #support-url: https://t.me/gidroksi_supportbot
-vless://b7049a06-1e51-4e2d-854a-7f81b0d0b35f@185.22.235.212:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&security=reality&sni=ihc14.maxleshax.icu&type=raw#%F0%9F%87%BD%F0%9F%87%BD%20GidroksiFree%20%231%20%7C%20%F0%9F%9F%A2LTE%20%7C%20412ms%20%7C%20%E2%86%930.0Mbps
-vless://42638beb-6068-4626-b035-5cc1f31b03d6@88.210.62.96:443?type=xhttp&security=reality&fp=firefox&sni=nl-xhttp.kitsuedge.win&pbk=5peSNpDPIjzBwoQBuMH0AoXc2lw8aq9PirPHw84wYAg&sid=8293c6fda2bab7b5&host=nl-xhttp.kitsuedge.win&path=%2F&mode=auto#%F0%9F%87%BD%F0%9F%87%BD%20GidroksiFree%20%232%20%7C%20%F0%9F%9F%A2LTE%20%7C%20356ms%20%7C%20%E2%86%930.0Mbps
+vless://42638beb-6068-4626-b035-5cc1f31b03d6@88.210.62.96:443?type=xhttp&security=reality&fp=firefox&sni=nl-xhttp.kitsuedge.win&pbk=5peSNpDPIjzBwoQBuMH0AoXc2lw8aq9PirPHw84wYAg&sid=8293c6fda2bab7b5&host=nl-xhttp.kitsuedge.win&path=%2F&mode=auto#%F0%9F%87%BD%F0%9F%87%BD%20GidroksiFree%20%231%20%7C%20%F0%9F%9F%A2LTE%20%7C%20366ms%20%7C%20%E2%86%930.0Mbps
