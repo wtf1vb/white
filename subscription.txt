@@ -2,4 +2,4 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-update-interval: 1
 #support-url: https://t.me/gidroksi_supportbot
-vless://ef1da56e-8117-42b4-bcd8-9094ebbdf985@130.193.35.149:8444?type=xhttp&security=reality&fp=firefox&pbk=TJjBxMqU12PD9TQ9ZVr-m-LdIxYVokVp5SImQ6Z2iEQ&sid=b8b1d46f23be2a8c&sni=hel.softriver.site&path=/9e3ee801bb41b934&mode=auto#%F0%9F%87%BD%F0%9F%87%BD%20GidroksiFree%20%231%20%7C%20%F0%9F%9F%A2LTE%20%7C%20638ms%20%7C%20%E2%86%930.0Mbps
+vless://ef1da56e-8117-42b4-bcd8-9094ebbdf985@130.193.35.149:8444?type=xhttp&security=reality&fp=firefox&pbk=TJjBxMqU12PD9TQ9ZVr-m-LdIxYVokVp5SImQ6Z2iEQ&sid=b8b1d46f23be2a8c&sni=hel.softriver.site&path=/9e3ee801bb41b934&mode=auto#%F0%9F%87%BD%F0%9F%87%BD%20GidroksiFree%20%231%20%7C%20%F0%9F%9F%A2LTE%20%7C%20510ms%20%7C%20%E2%86%930.0Mbps
