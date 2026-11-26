@@ -2,5 +2,4 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-update-interval: 1
 #support-url: https://t.me/gidroksi_supportbot
-vless://6a609bc5-ce0b-4384-860a-a4ce7c5759a0@185.86.145.190:12460?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6iY9vVjXFPDfNVhmDsV5IlC0NcaPpaba83dxDEmxVzo&security=reality&sid=7d752340c0e7c473&sni=passport.yandex.ru&type=raw#%F0%9F%87%BD%F0%9F%87%BD%20GidroksiFree%20%231%20%7C%20%F0%9F%9F%A2LTE%20%7C%208492ms%20%7C%20%E2%86%930.0Mbps
-vless://ee0a6b97-4dc1-0008-8b16-95a42c917158@se-sto1.connect.accessboy.com:443?security=reality&encryption=none&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=se-sto1.connect.accessboy.com&sid=1c5869a95671bcb0#%F0%9F%87%BD%F0%9F%87%BD%20GidroksiFree%20%232%20%7C%20%F0%9F%9F%A2LTE%20%7C%201881ms%20%7C%20%E2%86%930.0Mbps
+vless://6a609bc5-ce0b-4384-860a-a4ce7c5759a0@185.86.145.190:12460?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6iY9vVjXFPDfNVhmDsV5IlC0NcaPpaba83dxDEmxVzo&security=reality&sid=7d752340c0e7c473&sni=passport.yandex.ru&type=raw#%F0%9F%87%BD%F0%9F%87%BD%20GidroksiFree%20%231%20%7C%20%F0%9F%9F%A2LTE%20%7C%209023ms%20%7C%20%E2%86%930.0Mbps
