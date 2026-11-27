@@ -2,4 +2,5 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-update-interval: 1
 #support-url: https://t.me/gidroksi_supportbot
-vless://639b131f-d0f3-460c-aa17-423047f8a5df@185.86.147.80:5443?mode=stream-one&path=%2Fapi%2Fv1%2Fedge&security=reality&encryption=none&pbk=uR0Y9XXnLCHMDvBV99JPvY1l-ftxzjZ8iRLc04SKyw4&host=keshyou.mcufa.pro&fp=firefox&type=xhttp&sni=keshyou.mcufa.pro&sid=0123456789abcdef#%F0%9F%87%BD%F0%9F%87%BD%20GidroksiFree%20%231%20%7C%20%F0%9F%9F%A2LTE%20%7C%203157ms%20%7C%20%E2%86%930.0Mbps
+vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@84.201.130.151:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FmH06hSx9EeWD2rSoIDxr_LT0kuspuA3CnWBAOciZhE&security=reality&sid=9dcf31a09fe98e19&sni=ruforeign3.richhoodfoc.com&type=raw#%F0%9F%87%BD%F0%9F%87%BD%20GidroksiFree%20%231%20%7C%20%F0%9F%9F%A2LTE%20%7C%20404ms%20%7C%20%E2%86%930.0Mbps
+vless://639b131f-d0f3-460c-aa17-423047f8a5df@185.86.147.80:5443?encryption=none&type=xhttp&security=reality&sni=keshyou.mcufa.pro&pbk=uR0Y9XXnLCHMDvBV99JPvY1l-ftxzjZ8iRLc04SKyw4&sid=0123456789abcdef&fp=firefox&path=/api/v1/edge&host=keshyou.mcufa.pro&mode=stream-one#%F0%9F%87%BD%F0%9F%87%BD%20GidroksiFree%20%232%20%7C%20%F0%9F%9F%A2LTE%20%7C%20975ms%20%7C%20%E2%86%930.0Mbps
