@@ -2,3 +2,4 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-update-interval: 1
 #support-url: https://t.me/gidroksi_supportbot
+vless://639b131f-d0f3-460c-aa17-423047f8a5df@185.86.147.80:5443?mode=stream-one&path=%2Fapi%2Fv1%2Fedge&security=reality&encryption=none&pbk=uR0Y9XXnLCHMDvBV99JPvY1l-ftxzjZ8iRLc04SKyw4&host=keshyou.mcufa.pro&fp=firefox&type=xhttp&sni=keshyou.mcufa.pro&sid=0123456789abcdef#%F0%9F%87%BD%F0%9F%87%BD%20GidroksiFree%20%231%20%7C%20%F0%9F%9F%A2LTE%20%7C%20491ms%20%7C%20%E2%86%930.0Mbps
