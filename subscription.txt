@@ -2,5 +2,4 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-update-interval: 1
 #support-url: https://t.me/gidroksi_supportbot
-vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@84.201.130.151:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FmH06hSx9EeWD2rSoIDxr_LT0kuspuA3CnWBAOciZhE&security=reality&sid=9dcf31a09fe98e19&sni=ruforeign3.richhoodfoc.com&type=raw#%F0%9F%87%BD%F0%9F%87%BD%20GidroksiFree%20%231%20%7C%20%F0%9F%9F%A2LTE%20%7C%202190ms%20%7C%20%E2%86%930.0Mbps
-vless://61c9aca3-c23b-4410-a85d-85fda46a76cc@185.218.17.172:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=canwec.kramiliantha.sbs&pbk=oTsYnjjxzyoBI2rJn0TjihgaOcNMPa9bNwHhp4RdDkg&sid=be7d0c9dda4dd4e6&fp=firefox#%F0%9F%87%BD%F0%9F%87%BD%20GidroksiFree%20%232%20%7C%20%F0%9F%9F%A2LTE%20%7C%204589ms%20%7C%20%E2%86%930.0Mbps
+vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@84.201.130.151:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FmH06hSx9EeWD2rSoIDxr_LT0kuspuA3CnWBAOciZhE&security=reality&sid=9dcf31a09fe98e19&sni=ruforeign3.richhoodfoc.com&type=raw#%F0%9F%87%BD%F0%9F%87%BD%20GidroksiFree%20%231%20%7C%20%F0%9F%9F%A2LTE%20%7C%203672ms%20%7C%20%E2%86%930.0Mbps
