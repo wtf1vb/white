@@ -2,3 +2,4 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #profile-update-interval: 1
 #support-url: https://t.me/gidroksi_supportbot
+vless://aa4645a0-35c4-4d5e-af13-b9e7cffc95d1@213.109.107.38:443?flow=xtls-rprx-vision&fp=firefox&pbk=XTX6Yvtj5B4HENQbNCS0MH3jDqq5vj5gWlg2nilTviE&security=reality&sid=8ba02790a1480848&sni=gr.cachevault.net&type=raw&encryption=none#%F0%9F%87%BD%F0%9F%87%BD%20GidroksiFree%20%231%20%7C%20%F0%9F%9F%A2LTE%20%7C%205985ms%20%7C%20%E2%86%930.0Mbps
